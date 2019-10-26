@@ -11,9 +11,7 @@ class CashRegister
     @items = []
   end
 
-  def discount
-
-  end
+  
 
 
 end

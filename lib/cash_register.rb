@@ -2,7 +2,7 @@ require 'pry'
 
 class CashRegister
 
-  attr_accessor :cash_register :total
+  attr_accessor :total
 
   @total = 0
   

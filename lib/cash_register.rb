@@ -1,13 +1,13 @@
 require 'pry'
 
-class CashRegister 
+class CashRegister
 
-  attr_accessor :cash_register :total 
+  attr_accessor :cash_register :total
 
   @total = 0
   
   def initialize
-    @total 
+    @total
   end
 
 
